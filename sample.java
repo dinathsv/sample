@@ -32,3 +32,4 @@ class sample {
         myDog.animalSound();
     }
 }
+//my name is dinath
